@@ -65,6 +65,3 @@ Scaling notes in frontend/backend README
 - Scalability potential
 
 ---
-
-## Note
-First come, first serve. Complete and submit ASAP for best consideration.
