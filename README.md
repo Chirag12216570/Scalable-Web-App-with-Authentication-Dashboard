@@ -36,10 +36,12 @@ Build a modern, scalable, and secure web application with authentication and das
 ## UI Screenshots
 Below are screenshots of the main UI pages:
 
-![Login Page](login.png)
-![Dashboard](dashboard.png)
-![Profile Update](profile.png)
-![Task CRUD](tasks.png)
+<img width="1919" height="971" alt="Screenshot 2025-09-24 130959" src="https://github.com/user-attachments/assets/f29cb5de-41d2-4a94-bd6b-2c587f79a0b8" />
+
+<img width="1919" height="970" alt="Screenshot 2025-09-24 130708" src="https://github.com/user-attachments/assets/8aa00b55-d2cd-49d7-b00a-a1bd34a58446" />
+
+<img width="1918" height="918" alt="Screenshot 2025-09-24 130840" src="https://github.com/user-attachments/assets/8b800b72-dd4b-4a4b-8d03-a87d0efb89e0" />
+
 
 ## Deliverables
 Frontend (React.js) + Backend (Node.js/Express) in GitHub repo
@@ -50,12 +52,6 @@ Scaling notes in frontend/backend README
 
 ---
 
-## How to Submit
-Send your resume and completed assignment (GitHub repo link, portfolio, blog, etc.) along with log files to:
-- saami@bajarangs.com
-- nagasai@bajarangs.com
-- chetan@bajarangs.com
-- CC: sonika@primetrade.ai
 
 **Subject:** Frontend Developer Task
 
